@@ -1,5 +1,3 @@
-Certainly! You can add a project status section at the beginning of the README to indicate the current state of the project. Here’s an updated version of the README.md template with a project status section:
-
 ```markdown
 # Finance Tracker Web Application
 
